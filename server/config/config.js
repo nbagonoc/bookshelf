@@ -5,7 +5,8 @@ const config ={
     },
     default:{
         SECRET: 'qwerty123',
-        DATABASE: 'mongodb://localhost:27017/bookshelf'
+        // DATABASE: 'mongodb://localhost:27017/bookshelf'
+        DATABASE: 'mongodb://nbagonoc:FuckTh3G0v3rnm3nt@ds119640.mlab.com:19640/nb-mern-stack'
     }
 }
 
